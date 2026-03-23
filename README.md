@@ -15,7 +15,6 @@ A curated, actively maintained list of the best **360° virtual tour creation to
 | Kuula | Hosting + Tours | Beginners / photographers | Easy |
 | 3DVista | Offline Pro | Advanced customization | Hard |
 
----
 
 ## 🌐 Online Builders (General)
 
@@ -29,7 +28,6 @@ A curated, actively maintained list of the best **360° virtual tour creation to
 | Lapentor | https://lapentor.com/ | $25/mo | Mature platform |
 | SeekBeak | https://seekbeak.com/ | $11/mo | Interactive storytelling |
 
----
 
 ## 🏢 Real Estate Virtual Tour Tools
 
@@ -39,7 +37,6 @@ A curated, actively maintained list of the best **360° virtual tour creation to
 | iStaging | https://www.istaging.com/ | €150/mo | VR-focused |
 | Nodalview | https://www.nodalview.com/ | Custom | Capture + hosting |
 
----
 
 ## 🧠 3D / Digital Twin Platforms
 
@@ -50,7 +47,6 @@ A curated, actively maintained list of the best **360° virtual tour creation to
 | Metareal Stage | https://www.metareal.com/ | 2.91/mo | 360 → 3D |
 | Travvir | https://travvir.com/ | Pay as you go | AI-based tours |
 
----
 
 ## 🏫 Enterprise / Campus Solutions
 
@@ -59,7 +55,6 @@ A curated, actively maintained list of the best **360° virtual tour creation to
 | Concept3D | https://concept3d.com/ | Custom | Universities |
 | GoThru | https://gothru.co/ | Custom | Google Street View |
 
----
 
 ## 💻 Offline / Professional Tools
 
@@ -70,8 +65,6 @@ A curated, actively maintained list of the best **360° virtual tour creation to
 | Krpano | https://krpano.com/ | €179+ | Highly customizable |
 | Panoweaver | https://www.easypano.com/ | Paid | Panorama stitching |
 
----
-
 ## ⚠️ Low Activity / Niche Tools
 
 | Name | Notes |
@@ -80,16 +73,12 @@ A curated, actively maintained list of the best **360° virtual tour creation to
 | Ocurus | Small ecosystem |
 | Panolife FeelEstate | Niche |
 
----
-
 ## ❌ Deprecated / Discontinued
 
 | Name | Notes |
 |------|------|
 | Roundme | Domain repurposed (no longer a tour platform) |
 | Google Tour Creator | Discontinued by Google |
-
----
 
 ## 🧪 Other / Experimental / Unverified Projects
 
@@ -99,7 +88,6 @@ These projects may be incomplete, experimental, or lack documentation and commun
 |------|------|------|
 | Robust Virtual Tour Builder | https://github.com/tobleron/robust-virtual-tour-builder | Unclear scope, minimal documentation, likely experimental |
 
----
 
 ## 🧭 How to Choose the Right Tool
 
@@ -108,15 +96,12 @@ These projects may be incomplete, experimental, or lack documentation and commun
 - 🏗️ **Construction / Industry** → Cupix  
 - 💻 **Full control / custom dev** → 3DVista, Krpano  
 
----
 
 ## 🔥 Trends (2026)
 
 - AI-generated tours → Travvir  
 - Digital twins → Matterport, Metareal  
 - Browser-based builders → Theasys, Kuula  
-
----
 
 ## 🤝 Contributing
 
@@ -126,13 +111,10 @@ Contributions are welcome!
 - Report broken links  
 - Suggest better categorization  
 
----
-
 ## ⭐ Support
 
 If this repo helped you, consider giving it a ⭐ on GitHub!
 
----
 
 ## 📜 License
 
