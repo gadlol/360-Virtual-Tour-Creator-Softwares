@@ -27,6 +27,7 @@ A curated, actively maintained list of the best **360° virtual tour creation to
 | ThreeSixty Tours | https://threesixty.tours/ | $15/mo | Lightweight |
 | Lapentor | https://lapentor.com/ | $25/mo | Mature platform |
 | SeekBeak | https://seekbeak.com/ | $11/mo | Interactive storytelling |
+| Simple Virtual Tour | https://simplevirtualtour.it/ | $79 One time<br>€0 ~ €49.99/mo | Self-hosted or Cloud (Free tier) |
 
 
 ## 🏢 Real Estate Virtual Tour Tools
